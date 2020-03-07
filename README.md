@@ -78,7 +78,7 @@ Plot showing the score per episode over all the episodes.
 :-------------------------:|:-------------------------:|:-------------------------:
 ![dqn-scores](https://github.com/Jerome-Michael/NavigateAgent/blob/master/Results/DQN.png) |  ![double dqn-scores](https://github.com/Jerome-Michael/NavigateAgent/blob/master/Results/Double%20DQN.png) | ![dueling-double-dqn-scores](https://github.com/Jerome-Michael/NavigateAgent/blob/master/Results/Dueling%20DQN.png) 
 
-I was able to solve the environment in 361 episodes in Double DQN! This was achieved after a careful hyperparameter tuning, leading to a significant improvement compared to the initial base case settings. The trained agent is shown below. You can also see, in the graph above, how the agent is improving it's score over the episodes. To read about the hyper-Parameters settings, read my [report](./Report.pdf)
+I was able to solve the environment in 387 episodes in DQN! This was achieved after a careful hyperparameter tuning, leading to a significant improvement compared to the initial base case settings. The trained agent is shown below. You can also see, in the graph above, how the agent is improving it's score over the episodes. To read about the hyper-Parameters settings and other implementations of Double DQN and Dueling DQN, read my [report](./Report.pdf)
 
 
 | Trained Agent |
