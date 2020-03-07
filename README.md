@@ -49,7 +49,7 @@ Next you need to download the unity environment for collecting bananas, you shou
 2. Place the file in this folder, unzip (or decompress) the file and then write the correct path in the argument for creating the environment under the notebook `Navigation_DQN.ipynb`:
 
 ```python
-env = env = UnityEnvironment(file_name="Banana_Linux/Banana.x86_64")
+env = UnityEnvironment(file_name="Banana_Linux/Banana.x86_64")
 
 ```    
 ### Description
