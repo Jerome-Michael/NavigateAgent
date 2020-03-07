@@ -1,4 +1,4 @@
-# Udacity Deep Reinforcment Learning Nanodegree 
+# Udacity Deep Reinforcement Learning Nanodegree 
 ## Project 1: Navigation:
  This is my implementation of Navigation project from Deep Reinforcement Learning Nanodegree (Udacity)
 
