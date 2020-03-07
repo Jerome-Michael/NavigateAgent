@@ -1,4 +1,0 @@
-tensorflow==1.7.1
-unityagents==0.4.0
-jupyterlab
-torch==0.4.0
