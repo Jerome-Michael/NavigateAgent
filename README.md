@@ -1,1 +1,1 @@
-# Reinforcement Learning - Naviagte Agent
+# Reinforcement Learning - Navigate Agent
